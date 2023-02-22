@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shukhrat. I am a Software Developer.
+##👋 Hi, I’m Shukhrat. Passionate Software Developer.
 - 👀 My main interest in Web development.
 - 🌱 I’m currently working at Tata Consultancy Services(TCS) in Budapest, Hungary.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shukhrat-tojiev/)
