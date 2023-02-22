@@ -1,5 +1,6 @@
-##👋 Hi, I’m Shukhrat. Passionate Software Developer.
-- 👀 My main interest in Web development.
+# 👋 Hi, I’m Shukhrat Tojiev. Backend Developer.
+
+
 - 🌱 I’m currently working at Tata Consultancy Services(TCS) in Budapest, Hungary.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shukhrat-tojiev/)
 
